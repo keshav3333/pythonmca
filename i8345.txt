@@ -1,0 +1,12 @@
+
+                custid:-i8345
+                name :- girish
+                mobile:-8883738345
+                location:-palamaner
+                total quantity booked :- 7
+                total price           :-120000
+
+                Thank you for using My kart!!!
+
+                
+            

@@ -1,0 +1,12 @@
+
+                custid:-h2659
+                name :- keshav
+                mobile:-8951152659
+                location:-bangalore
+                total quantity booked :- 6
+                total price           :-40000
+
+                Thank you for using My kart!!!
+
+                
+            
