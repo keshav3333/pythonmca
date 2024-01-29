@@ -1,0 +1,12 @@
+
+                custid:-Raje3456
+                name :- Rajesh
+                mobile:-890123456
+                location:-palamaner
+                total quantity booked :- 7
+                total price           :-120000
+
+                Thank you for using My kart!!!
+
+                
+            

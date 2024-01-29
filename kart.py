@@ -18,7 +18,7 @@ class Kart:
         print(cls.quantity)
 
     def get_bill(self):
-        custid=self.name[0:4]+str(self.mob)[-:] 
+        custid=self.name[0:4]+str(self.mob)[-4:] 
         data = f'''
                 custid:-{custid}
                 name :- {self.name}
